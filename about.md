@@ -3,4 +3,4 @@ title:  About
 layout: default
 ---
 
-Yo.
+This summer I'm getting my PhD in computer engineering. Looking for a job.
